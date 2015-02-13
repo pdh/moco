@@ -6,13 +6,13 @@ class MocoTestCase(unittest.TestCase):
 
     databases = [
         {"host": "localhost",
-         "user": "playhaven",
-         "passwd": "password",
+         "user": "youruser",
+         "passwd": "yourpass",
          "db": "test",
          "use_unicode": True},
         {"host": "localhost",
-         "user": "playhaven",
-         "passwd": "password",
+         "user": "youruser",
+         "passwd": "yourpass",
          "db": "test"}
     ]
 
